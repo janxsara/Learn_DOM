@@ -9,3 +9,11 @@
 - Mit getElementById finde ich die Liste myList.
 - Mit createElement erstelle ich einen Listeneintrag.
 - Mit appendChild füge ich ihn zur Liste hinzu.
+
+## Input
+
+- Ein input ist ein Eingabefeld.
+- Mit value lese ich den eingegebenen Text.
+- Mit placeholder ändere ich den Hinweistext.
+- Mit disabled kann ich das Feld deaktivieren.
+- JavaScript muss erst starten, wenn die HTML-Elemente geladen sind.

@@ -13,6 +13,7 @@ addItemButton.addEventListener("click", function () {
     newItem.textContent = "Neuer Eintrag";
     myList.appendChild(newItem);
 });
+
 const list = document.getElementById("myList");
 const addButton = document.getElementById("addButton");
 
@@ -20,4 +21,13 @@ addButton.addEventListener("click", function () {
     const item = document.createElement("li");
     item.textContent = "Neuer Eintrag";
     list.appendChild(item);
+});
+
+const nameInput = document.getElementById("nameInput");
+const greetButton = document.getElementById("greetButton");
+const greeting = document.getElementById("greeting");
+
+greetButton.addEventListener("click", function () {
+    greeting.textContent = "Hallo " + nameInput.value + "!";
+    nameInput.placeholder = "Noch einen Namen eingeben";
 });
