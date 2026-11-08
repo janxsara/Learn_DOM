@@ -29,3 +29,9 @@
 - Ein div ist ein Bereich auf der Seite.
 - textContent verändert seinen Text.
 - Mit style ändere ich Farbe und Abstand.
+
+## Table
+
+- Eine table stellt Daten in Zeilen und Spalten dar.
+- Mit insertRow füge ich eine Zeile hinzu.
+- Mit insertCell füge ich eine Zelle hinzu.

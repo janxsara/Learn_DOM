@@ -27,3 +27,9 @@
 - Ich habe Copilot nach div gefragt.
 - Ich habe Text und Farbe verändert.
 - Ich habe das Ergebnis im Browser getestet.
+
+## Table
+
+- Ich habe Copilot nach table gefragt.
+- Ich habe eine Tabellenzeile mit JavaScript hinzugefügt.
+- Ich habe das Ergebnis im Browser getestet.

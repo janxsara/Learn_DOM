@@ -47,3 +47,16 @@ changeDivButton.addEventListener("click", function () {
     testDiv.style.backgroundColor = "lightblue";
     testDiv.style.padding = "20px";
 });
+
+const testTable = document.getElementById("testTable");
+const addRowButton = document.getElementById("addRowButton");
+
+addRowButton.addEventListener("click", function () {
+    const row = testTable.insertRow(-1);
+
+    const nameCell = row.insertCell(0);
+    const ageCell = row.insertCell(1);
+
+    nameCell.textContent = "Sara";
+    ageCell.textContent = "20";
+});
