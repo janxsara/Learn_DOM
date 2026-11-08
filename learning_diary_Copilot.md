@@ -21,3 +21,9 @@
 - Ich habe Copilot nach button gefragt.
 - Ich habe die Eigenschaften ausprobiert.
 - Ich habe den Button im Browser getestet.
+
+## Div
+
+- Ich habe Copilot nach div gefragt.
+- Ich habe Text und Farbe verändert.
+- Ich habe das Ergebnis im Browser getestet.

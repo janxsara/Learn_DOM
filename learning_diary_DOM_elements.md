@@ -23,3 +23,9 @@
 - textContent ändert die Beschriftung.
 - disabled deaktiviert den Button.
 - type bestimmt die Funktion des Buttons.
+
+## Div
+
+- Ein div ist ein Bereich auf der Seite.
+- textContent verändert seinen Text.
+- Mit style ändere ich Farbe und Abstand.

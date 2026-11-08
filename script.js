@@ -38,3 +38,12 @@ testButton.addEventListener("click", function () {
     testButton.textContent = "Fertig!";
     testButton.disabled = true;
 });
+
+const testDiv = document.getElementById("testDiv");
+const changeDivButton = document.getElementById("changeDivButton");
+
+changeDivButton.addEventListener("click", function () {
+    testDiv.textContent = "Der Bereich wurde verändert!";
+    testDiv.style.backgroundColor = "lightblue";
+    testDiv.style.padding = "20px";
+});
