@@ -17,3 +17,9 @@
 - Mit placeholder ändere ich den Hinweistext.
 - Mit disabled kann ich das Feld deaktivieren.
 - JavaScript muss erst starten, wenn die HTML-Elemente geladen sind.
+
+## Button
+
+- textContent ändert die Beschriftung.
+- disabled deaktiviert den Button.
+- type bestimmt die Funktion des Buttons.

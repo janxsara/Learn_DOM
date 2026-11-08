@@ -15,3 +15,9 @@
 - Ich habe Copilot nach den Eigenschaften von input gefragt.
 - Copilot hat mir value und placeholder erklärt.
 - Ich habe das Beispiel im Browser getestet.
+
+## Button
+
+- Ich habe Copilot nach button gefragt.
+- Ich habe die Eigenschaften ausprobiert.
+- Ich habe den Button im Browser getestet.

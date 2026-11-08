@@ -31,3 +31,10 @@ greetButton.addEventListener("click", function () {
     greeting.textContent = "Hallo " + nameInput.value + "!";
     nameInput.placeholder = "Noch einen Namen eingeben";
 });
+
+const testButton = document.getElementById("testButton");
+
+testButton.addEventListener("click", function () {
+    testButton.textContent = "Fertig!";
+    testButton.disabled = true;
+});
