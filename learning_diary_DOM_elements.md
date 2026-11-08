@@ -35,3 +35,9 @@
 - Eine table stellt Daten in Zeilen und Spalten dar.
 - Mit insertRow füge ich eine Zeile hinzu.
 - Mit insertCell füge ich eine Zelle hinzu.
+
+## Ul
+
+- Eine ul ist eine Liste mit Aufzählungspunkten.
+- children enthält die Einträge der Liste.
+- Mit removeChild entferne ich einen Eintrag.

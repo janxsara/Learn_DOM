@@ -33,3 +33,9 @@
 - Ich habe Copilot nach table gefragt.
 - Ich habe eine Tabellenzeile mit JavaScript hinzugefügt.
 - Ich habe das Ergebnis im Browser getestet.
+
+## Ul
+
+- Ich habe Copilot nach ul gefragt.
+- Ich habe das Entfernen von Einträgen ausprobiert.
+- Ich habe auch eine leere Liste getestet.

@@ -60,3 +60,12 @@ addRowButton.addEventListener("click", function () {
     nameCell.textContent = "Sara";
     ageCell.textContent = "20";
 });
+
+const testList = document.getElementById("testList");
+const removeItemButton = document.getElementById("removeItemButton");
+
+removeItemButton.addEventListener("click", function () {
+    if (testList.children.length > 0) {
+        testList.removeChild(testList.lastElementChild);
+    }
+});
