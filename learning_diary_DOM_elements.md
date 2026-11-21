@@ -47,3 +47,10 @@
 - select ist eine Auswahlliste mit option-Einträgen.
 - value liefert den Wert der ausgewählten Option.
 - Mit change reagiere ich auf eine neue Auswahl.
+
+## Canvas
+
+- Canvas ist eine Zeichenfläche.
+- width und height bestimmen ihre Größe.
+- Mit dem 2D-Kontext zeichne ich ein Rechteck.
+

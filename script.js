@@ -77,3 +77,12 @@ colorSelect.addEventListener("change", function () {
     colorOutput.textContent = "Gewählte Farbe: " + colorSelect.value;
     colorOutput.style.color = colorSelect.value;
 });
+
+const testCanvas = document.getElementById("testCanvas");
+const drawButton = document.getElementById("drawButton");
+const context = testCanvas.getContext("2d");
+
+drawButton.addEventListener("click", function () {
+    context.fillStyle = "lightblue";
+    context.fillRect(30, 30, 150, 80);
+});

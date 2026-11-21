@@ -45,3 +45,9 @@
 - Ich habe Copilot nach Auswahllisten gefragt.
 - Ich habe die ausgewählte Farbe mit JavaScript ausgelesen.
 - Ich habe den Farbwechsel im Browser getestet.
+
+## Canvas
+
+- Ich habe Copilot nach canvas gefragt.
+- Ich habe ein Rechteck mit JavaScript gezeichnet.
+- Ich habe das Zeichnen im Browser getestet.
