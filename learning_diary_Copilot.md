@@ -39,3 +39,9 @@
 - Ich habe Copilot nach ul gefragt.
 - Ich habe das Entfernen von Einträgen ausprobiert.
 - Ich habe auch eine leere Liste getestet.
+
+## Select und Option
+
+- Ich habe Copilot nach Auswahllisten gefragt.
+- Ich habe die ausgewählte Farbe mit JavaScript ausgelesen.
+- Ich habe den Farbwechsel im Browser getestet.

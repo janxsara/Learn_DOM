@@ -69,3 +69,11 @@ removeItemButton.addEventListener("click", function () {
         testList.removeChild(testList.lastElementChild);
     }
 });
+
+const colorSelect = document.getElementById("colorSelect");
+const colorOutput = document.getElementById("colorOutput");
+
+colorSelect.addEventListener("change", function () {
+    colorOutput.textContent = "Gewählte Farbe: " + colorSelect.value;
+    colorOutput.style.color = colorSelect.value;
+});

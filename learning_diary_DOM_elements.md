@@ -41,3 +41,9 @@
 - Eine ul ist eine Liste mit Aufzählungspunkten.
 - children enthält die Einträge der Liste.
 - Mit removeChild entferne ich einen Eintrag.
+
+## Select und Option
+
+- select ist eine Auswahlliste mit option-Einträgen.
+- value liefert den Wert der ausgewählten Option.
+- Mit change reagiere ich auf eine neue Auswahl.
