@@ -51,3 +51,9 @@
 - Ich habe Copilot nach canvas gefragt.
 - Ich habe ein Rechteck mit JavaScript gezeichnet.
 - Ich habe das Zeichnen im Browser getestet.
+
+## Form
+
+- Ich habe Copilot nach Formularen gefragt.
+- Ich habe eine Formulareingabe ausgelesen.
+- Ich habe Anzeigen und Zurücksetzen getestet.

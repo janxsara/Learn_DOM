@@ -86,3 +86,13 @@ drawButton.addEventListener("click", function () {
     context.fillStyle = "lightblue";
     context.fillRect(30, 30, 150, 80);
 });
+
+const testForm = document.getElementById("testForm");
+const formOutput = document.getElementById("formOutput");
+
+testForm.addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    const subject = testForm.elements.namedItem("subject").value;
+    formOutput.textContent = "Dein Lieblingsfach: " + subject;
+});

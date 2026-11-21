@@ -54,3 +54,8 @@
 - width und height bestimmen ihre Größe.
 - Mit dem 2D-Kontext zeichne ich ein Rechteck.
 
+## Form
+
+- Ein Formular fasst Eingabefelder zusammen.
+- Über elements greife ich auf die Felder zu.
+- preventDefault verhindert das normale Absenden.
